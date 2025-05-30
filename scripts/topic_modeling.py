@@ -7,5 +7,5 @@ def extract_keywords(df, n=20):
     print("Top keywords:", tfidf.get_feature_names_out())
 
 if __name__ == "__main__":
-    df = pd.read_csv('../data/TSLA_historical_data.csv')
+    df = pd.read_csv('../data/raw_analyst_ratings.csv')
     extract_keywords(df)

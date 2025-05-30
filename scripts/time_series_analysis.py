@@ -15,5 +15,5 @@ def time_series(df):
     plt.show()
 
 if __name__ == "__main__":
-    df = pd.read_csv('../data/TSLA_historical_data.csv')
+    df = pd.read_csv('../data/raw_analyst_ratings.csv')
     time_series(df)
