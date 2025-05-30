@@ -13,9 +13,7 @@ wordcloud>=1.9.2
 scikit-learn>=1.2.2
 
 # Technical Analysis
-TA-Lib>=0.4.0
 
-# pynance @ git+https://github.com/corpetty/pynance.git
 
 # Correlation/Stats
 scipy>=1.10.1
@@ -27,5 +25,8 @@ ipykernel>=6.23.0
 # Linting & Code Quality (Optional)
 flake8>=6.0.0
 black>=23.3.0
+
+
+
 
 
