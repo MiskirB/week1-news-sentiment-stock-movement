@@ -1,6 +1,7 @@
-# Core data handling
+# Core Data Handling & TA
+pandas>=1.5.3
 pandas_ta==0.3.14b
-numpy>=1.23.5
+numpy==1.24.4
 
 # Visualization
 matplotlib>=3.7.1
@@ -12,21 +13,16 @@ textblob>=0.17.1
 wordcloud>=1.9.2
 scikit-learn>=1.2.2
 
-# Technical Analysis
-
+# Financial Data
+yfinance>=0.2.37
 
 # Correlation/Stats
-scipy>=1.10.1
+scipy==1.11.3
 
-# Jupyter Notebook
+# Jupyter Notebook Support
 jupyterlab>=4.0.0
 ipykernel>=6.23.0
 
 # Linting & Code Quality (Optional)
 flake8>=6.0.0
 black>=23.3.0
-
-
-
-
-
