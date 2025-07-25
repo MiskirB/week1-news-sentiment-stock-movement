@@ -113,4 +113,4 @@ See `requirements.txt` for full versions.
 ## 📬 Author
 
 - **Miskir Besir**
-- Part of the **Nova Financial Modeling Challenge**
+- Part of the **KAIM Financial Modeling Challenge**
